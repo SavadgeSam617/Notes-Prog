@@ -1,0 +1,7 @@
+- [x] Le client veut être en mesure de faire des additions et soustractions
+  - [x] Créer un `switch... case`
+   - [x] '+'
+   - [x] '-'
+  - [x] Créer la méthode **somme**
+  - [x] Créer la méthode **différence**
+- [x] Faire les tests
