@@ -8,18 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01ebc4de71ed7012",
+            "id": "0108f91871d48e4b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "98ee8828ca07f3e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog-Structure/Atelier 3.md",
+                "file": "Java/Prog-Objet/Encapsulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bf385a21fc1977a3",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog-Structure/Atelier 3.md",
+                "file": "Java/Prog-Objet/Encapsulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog-Structure/Atelier 3.md",
+                "file": "Java/Prog-Objet/Encapsulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog-Structure/Atelier 3.md"
+                "file": "Java/Prog-Objet/Encapsulation.md"
               }
             }
           }
@@ -146,22 +156,41 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "01ebc4de71ed7012",
+  "active": "98ee8828ca07f3e5",
   "lastOpenFiles": [
-    "Prog-Structure/Atelier 3.md",
-    "Prog-Structure/SmartGith.md",
-    "Prog-Structure/Git.md",
-    "Prog-Objet/Programation orienté Objet.md",
-    "Prog-Structure/Programation Structurée.md",
+    "Java/Prog-Objet/Constructeur.md",
+    "Java/Prog-Objet/accesseur.md",
+    "Java/Prog-Objet/Class.md",
+    "Java/Prog-Objet/Encapsulation.md",
+    "Java/Prog-Objet/modificateur.md",
+    "Java/Prog-Objet/objet.md",
+    "Variables.md",
+    "Java/Prog-Objet/Classe.md",
+    "Java/Prog-Objet/Programation orienté Objet.md",
+    "Java/Prog-Structure/Programation Structurée.md",
+    "Java/Prog-Objet/Untitled",
+    "Java/Prog-Objet/duvalsa/at1/Livre.md",
+    "Java/Prog-Objet/duvalsa/at1/Biblio.md",
+    "Java/Prog-Objet/duvalsa/at1/Biblio.java",
+    "Java/Prog-Objet/duvalsa/at1/Livre.java",
+    "Java/Prog-Objet/duvalsa/at1/Livre (2).java",
+    "Java/Prog-Objet/duvalsa/at1/Livre (1).java",
+    "Java/Prog-Objet/duvalsa/at2",
+    "Java/Prog-Objet/duvalsa/at1",
+    "Java/Prog-Objet/duvalsa",
+    "Java/Prog-Structure/Atelier 3.md",
+    "Java",
+    "Java/Prog-Structure/SmartGith.md",
+    "Git.md",
     "Untitled.md",
     "Prog-Structure/No2.md",
     "Prog-Structure/No1.md",
     "Welcome.md",
-    "Prog-Objet",
-    "Prog-Structure"
+    "Java/Prog-Objet"
   ]
 }

@@ -1,0 +1,3 @@
+L'encapsulation consiste à...
+ - Un fichier de code appelé [[Class]] (ex: Livre.java) afin de réunir tout le code lié a un [[objet]]
+ - ex: tous les détails sur un livre précis sont stocké dans une <capsule>
