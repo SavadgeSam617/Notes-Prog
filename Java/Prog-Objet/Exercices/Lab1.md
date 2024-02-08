@@ -1,0 +1,38 @@
+- [x] Exercice 1
+- [x] Exercice 2
+- [x] Exercice 3
+- [x] Exercice 4
+- [x] Exercice 5
+- [x] Exercice 6
+	- [x] Créer la classe Instructeurs
+		- [x] Attribut Nom
+		- [x] Attribut Prénom
+		- [x] Attribut Addresse
+		- [x] Attribut code d'instructeur
+			- [x] Chaine de 3 Char
+		- [x] Au moins 1 constructeur par défaut
+		- [x] Au moins 1 constructeur qui initialise les Attributs
+		- [x] Un méthode afficher()
+	- [x] Créer la classe Étudiant
+		- [x] Attribut Nom
+		- [x] Attribut Prénom
+		- [x] Attribut instructeur
+			- [x] Fait référance a un objet de type instructeur
+		- [x] Attribut nb de minutes accumulées pour les lessons (commance a 0)
+			- [x] Créer une méthode [prendreLesson] qui ajoute des minutes a l'attribut. 
+			- [x] Créer une méthode [passerExamen] qui retourne un message
+		- [x] Attribut code d'étudiant
+			- [x] Chaine de 3 Char
+		- [x] Au moins 1 constructeur par défaut
+		- [x] Au moins 1 constructeur qui initialise les Attributs
+		- [x] Un méthode afficher()
+	- [x] Classe test École
+		- [x] instructeur1
+			- [x] Crée un objet de type Instructeur
+			- [x] afficher()
+		- [x] etudiant1
+			- [x] Créer un objet de type etudiant
+			- [x] afficher()
+		- [x] prendreLecon(int duree)
+			- [x] prendre 2 lessons avec l'étudiant
+		- [x] passerExamen()
