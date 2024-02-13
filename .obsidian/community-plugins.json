@@ -3,5 +3,6 @@
   "dataview",
   "table-editor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "execute-code"
 ]
