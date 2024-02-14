@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "bd21c3de0085864a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Tableau de commandes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 257.5,
     "collapsed": true
   },
   "right": {
@@ -97,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Tableau de commandes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Tableau de commandes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Tableau de commandes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,32 +154,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bd21c3de0085864a",
+  "active": "0108f91871d48e4b",
   "lastOpenFiles": [
-    "Pasted image 20240214093413.png",
     "Linux/Linux.md",
-    "Linux/Shell.md",
+    "Java/Prog-Objet/Class.md",
+    "Java/Prog-Structure/Travaux/TP01.md",
     "Linux/Tableau de commandes.md",
+    "Java/Prog-Structure/Travaux/Atelier 3.md",
+    "Java/Prog-Objet/Variables.md",
+    "Java/Prog-Structure/Programation Structurée.md",
+    "Java/Prog-Structure/SmartGit.md",
+    "Git.md",
+    "Java/Prog-Objet/Programation orienté Objet.md",
+    "Java/Prog-Objet/Encapsulation.md",
+    "Cours.md",
+    "Java/Prog-Objet/accesseur.md",
+    "Java/Prog-Objet/Exercices/Lab1.md",
     "Linux/File system Linux.md",
+    "Pasted image 20240214093413.png",
+    "Linux/Shell.md",
     "Ressources",
     "Linux/Bash",
     "Ressources/Pasted image 20240214082955.png",
-    "Java/Prog-Structure/Travaux/TP01.md",
     "Linux/AlimaLinux",
     "Linux",
-    "Java/Prog-Structure/Programation Structurée.md",
-    "Java/Prog-Objet/Class.md",
-    "Java/Prog-Structure/SmartGith.md",
     "Java/Prog-Objet/objet.md",
     "Java/Prog-Objet/modificateur.md",
     "Java/Prog-Objet/Constructeur.md",
-    "Java/Prog-Objet/Encapsulation.md",
-    "Java/Prog-Structure/Travaux/Atelier 3.md",
     "Java/Prog-Structure/Travaux",
-    "Java/Prog-Objet/Exercices/Lab1.md",
     "Java/Prog-Objet/Exercices",
-    "Java/Prog-Objet/accesseur.md",
-    "Java/Prog-Objet/Programation orienté Objet.md",
     "Variables.md",
     "Java/Prog-Objet/Classe.md",
     "Java/Prog-Objet/duvalsa/at1/Livre.md",
@@ -205,10 +191,8 @@
     "Java/Prog-Objet/duvalsa/at1/Livre.java",
     "Java/Prog-Objet/duvalsa/at1/Livre (2).java",
     "Java/Prog-Objet/duvalsa/at1/Livre (1).java",
-    "Git.md",
     "Untitled.md",
     "Prog-Structure/No2.md",
-    "Prog-Structure/No1.md",
-    "Welcome.md"
+    "Prog-Structure/No1.md"
   ]
 }

@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1707940336417,
+      "title": "BaseGraph",
+      "options": {
+        "collapse-filter": true,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:Java/Prog-Objet  ",
+            "color": {
+              "a": 1,
+              "rgb": 15662848
+            }
+          },
+          {
+            "query": "path:Java/Prog-Structure  ",
+            "color": {
+              "a": 1,
+              "rgb": 3669760
+            }
+          },
+          {
+            "query": "file:Cours",
+            "color": {
+              "a": 1,
+              "rgb": 11207145
+            }
+          },
+          {
+            "query": "path:Linux  ",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": true,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.7132754626224452,
+        "close": true
+      }
+    }
+  ]
+}
