@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "98ee8828ca07f3e5",
+            "id": "bd21c3de0085864a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Prog-Structure/Travaux/TP01.md",
+                "file": "Linux/Tableau de commandes.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bf385a21fc1977a3",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Prog-Structure/Travaux/TP01.md",
+                "file": "Linux/Tableau de commandes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Prog-Structure/Travaux/TP01.md",
+                "file": "Linux/Tableau de commandes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,11 +137,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Prog-Structure/Travaux/TP01.md"
+                "file": "Linux/Tableau de commandes.md"
               }
             }
+          },
+          {
+            "id": "094917b01faf67ae",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -161,10 +171,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "98ee8828ca07f3e5",
+  "active": "bd21c3de0085864a",
   "lastOpenFiles": [
-    "Java/Prog-Structure/Programation Structurée.md",
+    "Pasted image 20240214093413.png",
+    "Linux/Linux.md",
+    "Linux/Shell.md",
+    "Linux/Tableau de commandes.md",
+    "Linux/File system Linux.md",
+    "Ressources",
+    "Linux/Bash",
+    "Ressources/Pasted image 20240214082955.png",
     "Java/Prog-Structure/Travaux/TP01.md",
+    "Linux/AlimaLinux",
+    "Linux",
+    "Java/Prog-Structure/Programation Structurée.md",
     "Java/Prog-Objet/Class.md",
     "Java/Prog-Structure/SmartGith.md",
     "Java/Prog-Objet/objet.md",
@@ -185,10 +205,6 @@
     "Java/Prog-Objet/duvalsa/at1/Livre.java",
     "Java/Prog-Objet/duvalsa/at1/Livre (2).java",
     "Java/Prog-Objet/duvalsa/at1/Livre (1).java",
-    "Java/Prog-Objet/duvalsa/at2",
-    "Java/Prog-Objet/duvalsa/at1",
-    "Java/Prog-Objet/duvalsa",
-    "Java",
     "Git.md",
     "Untitled.md",
     "Prog-Structure/No2.md",
