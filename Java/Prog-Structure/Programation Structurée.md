@@ -3,6 +3,6 @@
 - [ ] Utilisation de **[[Gitlab]]**
 - [ ] Utilisation de l'interface **[[Smartgit]]**
 ### Travaux
-[[TP01]]
-[[Atelier 3]]
+[[PS-TP01]]
+[[PS-Atelier 3]]
 

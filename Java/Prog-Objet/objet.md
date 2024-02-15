@@ -1,4 +1,4 @@
-Les objets sont un individu représenté par des [[Variables]] dans un moule appelé [[Class]]
+Les objets sont un individu représenté par des [[Variables Java]] dans un moule appelé [[Class]]
 
 La création d'un objet consiste à [Déclarer un objet]
 ```java

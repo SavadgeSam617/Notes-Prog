@@ -10,7 +10,7 @@ public String getTitre() {
 ### Gabarit
 ```java
 //Accesseur de <variable>
-public <type> get<nomDeLaVariable>() {
+public <type> get<NomDeLaVariable>() {
 	return <nomDeLaVariable>;
 }
 ```

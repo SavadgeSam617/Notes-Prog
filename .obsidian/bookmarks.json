@@ -2,16 +2,16 @@
   "items": [
     {
       "type": "graph",
-      "ctime": 1707940336417,
-      "title": "BaseGraph",
+      "ctime": 1708017340186,
+      "title": "JAVA",
       "options": {
-        "collapse-filter": true,
-        "search": "",
+        "collapse-filter": false,
+        "search": "path:Java",
         "showTags": false,
         "showAttachments": false,
         "hideUnresolved": false,
-        "showOrphans": true,
-        "collapse-color-groups": true,
+        "showOrphans": false,
+        "collapse-color-groups": false,
         "colorGroups": [
           {
             "query": "path:Java/Prog-Objet  ",
@@ -28,17 +28,10 @@
             }
           },
           {
-            "query": "file:Cours",
+            "query": "file:Java",
             "color": {
               "a": 1,
-              "rgb": 11207145
-            }
-          },
-          {
-            "query": "path:Linux  ",
-            "color": {
-              "a": 1,
-              "rgb": 16711680
+              "rgb": 16712965
             }
           }
         ],
@@ -51,8 +44,8 @@
         "centerStrength": 0.518713248970312,
         "repelStrength": 10,
         "linkStrength": 1,
-        "linkDistance": 250,
-        "scale": 0.7132754626224452,
+        "linkDistance": 192,
+        "scale": 1.0534979423868345,
         "close": true
       }
     }
