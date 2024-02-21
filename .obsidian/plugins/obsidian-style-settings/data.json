@@ -6,10 +6,11 @@
   "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-light-dt",
   "obsidian-prism-theme@@graph-line-color-dt": "var(--background-primary-alt)",
   "obsidian-prism-theme@@graph-fill-color-dt": "var(--color-grey-text)",
-  "obsidian-prism-theme@@inline-title-color-dt": "var(--text-normal)",
+  "obsidian-prism-theme@@inline-title-color-dt": "var(--color-blue-text)",
   "obsidian-prism-theme@@h2-text-color-dt": "var(--color-red-text)",
   "obsidian-prism-theme@@h3-text-color-dt": "var(--color-orange-text)",
   "obsidian-prism-theme@@h4-text-color-dt": "var(--color-yellow-text)",
   "obsidian-prism-theme@@h5-text-color-dt": "var(--color-green-text)",
-  "obsidian-prism-theme@@h6-text-color-dt": "var(--color-mint-text)"
+  "obsidian-prism-theme@@h6-text-color-dt": "var(--color-mint-text)",
+  "obsidian-prism-theme@@h1-text-color-dt": "var(--color-purple-text)"
 }

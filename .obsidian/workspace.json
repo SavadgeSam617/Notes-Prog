@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Prog-Structure/Tableaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Prog-Structure/Tableaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Prog-Structure/Tableaux.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,8 +173,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79c023f8e6155f6a",
+  "active": "0108f91871d48e4b",
   "lastOpenFiles": [
+    "Java/Prog-Structure/Tableaux.md",
     "Java/Prog-Structure/SmartGit.md",
     "Java/Prog-Objet/Programation orienté Objet.md",
     "Java/Prog-Objet/objet.md",
@@ -190,7 +187,6 @@
     "Java/Prog-Objet/Class.md",
     "Java/Prog-Objet/modificateur.md",
     "Java/Prog-Objet/Constructeur.md",
-    "Java/Prog-Structure/Tableaux.md",
     "Java/Prog-Objet/Variables Java.md",
     "Java/Prog-Structure/Programation Structurée.md",
     "Java/Java.md",
