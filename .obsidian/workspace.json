@@ -6,26 +6,6 @@
       {
         "id": "43a07ca7c45904b2",
         "type": "tabs",
-        "dimension": 77.80517879161529,
-        "children": [
-          {
-            "id": "79c023f8e6155f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Prog-Structure/Programation Structurée.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c7cfdebb720f10f7",
-        "type": "tabs",
-        "dimension": 22.19482120838471,
         "children": [
           {
             "id": "0108f91871d48e4b",
@@ -36,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "79c023f8e6155f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Tableau de commandes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Prog-Structure/Programation Structurée.md",
+                "file": "Linux/Tableau de commandes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Prog-Structure/Programation Structurée.md",
+                "file": "Linux/Tableau de commandes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Prog-Structure/Programation Structurée.md"
+                "file": "Linux/Tableau de commandes.md"
               }
             }
           },
@@ -179,8 +172,12 @@
   },
   "active": "79c023f8e6155f6a",
   "lastOpenFiles": [
-    "Exercices/PS-Atelier 4.md",
+    "Linux/Linux.md",
+    "Linux/File system Linux.md",
+    "Linux/Shell.md",
+    "Linux/Tableau de commandes.md",
     "Java/Prog-Structure/Programation Structurée.md",
+    "Exercices/PS-Atelier 4.md",
     "Exercices/POO-TP1.md",
     "Exercices/PS-Atelier 1.md",
     "Java/Prog-Objet/Class.md",
@@ -194,17 +191,13 @@
     "Java/Prog-Objet/modificateur.md",
     "Cours.md",
     "Java/Java.md",
-    "Linux/Linux.md",
     "Exercices/PS-TP01.md",
-    "Linux/Tableau de commandes.md",
     "Exercices/PS-Atelier 3.md",
     "Java/Prog-Structure/SmartGit.md",
     "Git.md",
     "Java/Prog-Objet/Encapsulation.md",
     "Exercices/POO-Lab1.md",
-    "Linux/File system Linux.md",
     "Pasted image 20240214093413.png",
-    "Linux/Shell.md",
     "Ressources",
     "Linux/Bash",
     "Ressources/Pasted image 20240214082955.png",

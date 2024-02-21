@@ -22,6 +22,7 @@
 | `rm -r` path | supprimer un répertoire |
 | `touch` path | Créer un fichier |
 | `mkdir` path | Créer un répertoire |
+| `mkdir -p` | Crée un répertoire et le parent si il n'existe pas |
 | `pwd` | afficher le path |
 | `ls` | afficher le contenu d'un répertoire |
 | `sudo` commande | commande en admin |
@@ -29,6 +30,12 @@
 | `sudo su` | Se logger en root (mot de passe de l'usager) |
 | `echo` | Afficher un shit |
 | `shutdown -r now` | Shutdown maintenant |
+| `gprep` "^chaine" | Filtre une chaine de caractère mais aussi de spécifier d'autres options |
+| `sed` "s/foo/bar/g" -i fichier | Permet de modifier du texte dans un fichier.<br>Ex: Remplace foo par bar dans le fichier nommé **fichier** |
+| `sort` | trie selon multiples paramètres |
+| `sort -k` | trie selon une colone |
+| `sort -t` | Spécifie un délimiteur |
+| `sort -n` | Trie des valeur entière |
 A ne pas oublier : [[Shell]]
 
 
