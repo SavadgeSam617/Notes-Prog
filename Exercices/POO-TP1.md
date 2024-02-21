@@ -1,39 +1,45 @@
 [Lien en ligne](https://cmontmorency.moodle.decclic.qc.ca/pluginfile.php/758664/mod_resource/content/14/TP1.pdf)
 
-- [ ] [[Package]] TP01
+- [x] [[Package]] TP01
 	- [ ] Documentation des classes et modificateurs
-	- [ ] Limiter le char par ligne a ***80***
+	- [ ] Limiter le char par ligne a ***100***
 	- [ ] [[Class]] `Etudiant.java`
-		- [ ] Constantes
-			- [ ] `SEUIL_DE_REUSSITE = 60;`
-		- [ ] [[Attributs]] 
-			- [ ] `nom` String
-			- [ ] `prenom` String
-			- [ ] `sexe` char
-			- [ ] `adresse` String
-			- [ ] `matricule` String
-			- [ ] `note` double
-			- [ ] `hTutorat` int (Nombre de tutorat dont il a droit)
-			- [ ] `enseignant` Enseignant
-		- [ ] Les [[modificateur]]s
-			- [ ] `matricule` a une longueur de 6 charactères
-			- [ ] `note` est entre 0 et 100
-		- [ ] Un [[Constructeur]] avec 7 paramètre, le dernier est un [[objet]] de la [[Class]]e Enseignant
-		- [ ] Une méthode **publique** `afficher()` qui affiche une description de l'étudiant.
-			- [ ] Ex: `M-670557, Anas Bouclair, 56, Enseignant : Emir Alami.`
-		- [ ] Une méthode **publique** `reussir()` qui vérifie si un étudiant a réussi. 
-			- [ ] Retourne "réussite" ou "échec"
-		- [ ] Une méthode **publique** `cote()`... Voir [[PS-Atelier 1]]
-			- [ ] Si la note est entre 90 et 100 : retourner ‘A’.
-			- [ ] Si la note est entre 70 et 89 : retourner ‘B’
-			- [ ] Si la note est entre 60 et 69 : retourner ‘C’
-			- [ ] Si la note est entre 40 et 59 : retourner ‘D’
-			- [ ] Si la note est entre 0 et 39 : retourner ‘E’
+		- [x] Constantes
+			- [x] `SEUIL_DE_REUSSITE = 60;`
+		- [x] [[Attributs]] 
+			- [x] `nom` String
+			- [x] `prenom` String
+			- [x] `sexe` char
+			- [x] `adresse` String
+			- [x] `matricule` String
+			- [x] `note` double
+			- [x] `hTutorat` int (Nombre de tutorat dont il a droit)
+			- [x] `enseignant` Enseignant
+		- [x] Les [[modificateur]]s
+			- [x] `matricule` a une longueur de 6 charactères
+			- [x] `note` est entre 0 et 100
+		- [x] Un [[Constructeur]] avec 7 paramètre, le dernier est un [[objet]] de la [[Class]]e Enseignant
+		- [x] Une méthode **publique** `afficher()` qui affiche une description de l'étudiant.
+			- [x] Ex: `M-670557, Anas Bouclair, 56, Enseignant : Emir Alami.`
+		- [x] Une méthode **publique** `reussir()` qui vérifie si un étudiant a réussi. 
+			- [x] Retourne "réussite" ou "échec"
+		- [x] Une méthode **publique** `cote()`... Voir [[PS-Atelier 1]]
+			- [x] Si la note est entre 90 et 100 : retourner ‘A’.
+			- [x] Si la note est entre 70 et 89 : retourner ‘B’
+			- [x] Si la note est entre 60 et 69 : retourner ‘C’
+			- [x] Si la note est entre 40 et 59 : retourner ‘D’
+			- [x] Si la note est entre 0 et 39 : retourner ‘E’
 		- [ ] Une méthode **publique** `tutoyer(int nbh)` 
 	- [ ] [[Class]] `Enseignant.java`
-		- [ ] `nom` String
-		- [ ] `prenom` String
-		- [ ] `matricule` String
-		- [ ] `echelon` int
-		- [ ] `salaire` double
+		- [x] Attributs
+			- [x] `nom` String
+			- [x] `prenom` String
+			- [x] `matricule` String
+			- [x] `echelon` int
+			- [x] `salaire` double
+		- [ ] Modificateurs
+		- [ ] Accesseurs
+		- [ ] Un constructeur à quatre paramètre `nom, prenom, matricule, echelon`
+		- [ ] Méthode `afficher()` qui affiche une description de l'enseingant  Ex: **M-234567, Emir Alami, 6, 0**
+		- [ ] Méthode `salaire()` qui calcule le salaire d'un enseignant qui sera implémenté à la dernière question
 	- [ ] 
