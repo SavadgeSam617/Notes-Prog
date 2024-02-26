@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Prog-Objet/Tableaux/Tableaux d'objets/Tableau d'objet.md",
-                "mode": "source",
+                "file": "Linux/Bash.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/Bash.md"
+              }
             }
           },
           {
@@ -171,8 +175,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0108f91871d48e4b",
+  "active": "bf955d3fe5eda377",
   "lastOpenFiles": [
+    "Linux/Bash/nombre_de_fichiers_seq.md",
+    "Linux/Bash/nombre_de_fichiers_conc.md",
+    "Linux/Shell.md",
+    "Linux/Bash.md",
+    "Linux/Bash",
+    "Linux/Tableau de commandes.md",
     "Java/Prog-Objet/Tableaux/Tableaux d'objets/Tableau d'objet.md",
     "Java/Prog-Objet/Tableaux/Tableaux primitifs/Trier un tableau.md",
     "Java/Prog-Objet/Tableaux/Tableaux.md",
@@ -197,11 +207,6 @@
     "Exercices/PS-Atelier 1.md",
     "Exercices/POO-TP1.md",
     "Exercices/PS-TP01.md",
-    "Exercices/PS-Atelier 3.md",
-    "Java/Prog-Objet/modificateur.md",
-    "Java/Prog-Objet/Constructeur.md",
-    "Java/Prog-Structure/Programation Structurée.md",
-    "Java/Java.md",
     "Excalidraw",
     "Lua",
     "Ressources/Pasted image 20240214093413.png",
@@ -209,7 +214,6 @@
     "Linux/Bash",
     "Ressources/Pasted image 20240214082955.png",
     "Linux/AlimaLinux",
-    "Linux",
-    "Java/Travaux"
+    "Linux"
   ]
 }
