@@ -11,7 +11,7 @@ Un tableau primitif contient des [[Variables Java]] typiques
 #### Quelques outils sur les tableaux
 - [[Copier un tableau]]
 - [[Fusionner un tableau]]
-- [[Recherche d'info]]
+- [[Recherche d'info double]]
 - [[Trier un tableau]]
 - Ajouter/supprimer
 	- Sur des [[Tableaux non-ordonnés]]

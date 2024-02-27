@@ -20,6 +20,7 @@ if (nbTrouve > 0) {
 	System.out.println("Aucun produit trouvé");
 }
 ```
+
 ## Min Max
 ```java
 String[] nomProd = {"Patate", "Carotte", "Navet", "Brocoli",
