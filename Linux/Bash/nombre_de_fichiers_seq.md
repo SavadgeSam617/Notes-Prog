@@ -14,5 +14,7 @@ Pour chaque $types de fichiers, afficher:
 ```bash
 #!/bin/bash
 types="java conf txt png tiff"
-
+for i in $types; do
+	echo $(find / -name "*.$i" 2>/dev/null | wc -l); 
+done
 ```
