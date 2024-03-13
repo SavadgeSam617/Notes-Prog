@@ -1,0 +1,3 @@
+- Une page est constitué de deux parties : 
+	- `<HEAD>`: contient le titre, l'encodage (pour l;a gestion des caracteres speciaux), ect 
+	- `<BODY>`: La partie principale de la page 

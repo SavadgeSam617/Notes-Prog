@@ -1,0 +1,3 @@
+- `<!DOCTYPE html>` 
+- LA premiere ligne indique qu'il s'agit d'un HTML 5 (elle s'Appelle doctype) 
+- Ce n'est pas une balise normale (commance avec un I) 

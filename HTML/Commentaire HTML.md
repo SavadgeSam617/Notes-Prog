@@ -1,0 +1,2 @@
+- `<!--Ceci est un commantaire -->`
+- Le commentaire ne sera visible que dans les lignes de codes 

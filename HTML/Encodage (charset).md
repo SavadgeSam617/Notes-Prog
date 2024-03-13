@@ -1,0 +1,3 @@
+- `<meta charset="utf-8" />`
+- Affiche tous les symboles
+- Indique l'encodage utilisé dans le fichier .html 

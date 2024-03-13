@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4489f346a7dbb662",
+        "id": "9f348b444ed95257",
         "type": "tabs",
         "children": [
           {
-            "id": "4a5004ea6faa70f1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Exercices/POO-TP2.pdf"
-              }
-            }
-          },
-          {
-            "id": "919c7c51d134e913",
+            "id": "5e66bcd835c9c201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/UI.md",
+                "file": "HTML/Tableau HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercices/POO-TP2.pdf",
+                "file": "HTML/Tableau HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercices/POO-TP2.pdf",
+                "file": "HTML/Tableau HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercices/POO-TP2.pdf"
+                "file": "HTML/Tableau HTML.md"
               }
             }
           },
@@ -166,46 +156,48 @@
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4a5004ea6faa70f1",
+  "active": "5e66bcd835c9c201",
   "lastOpenFiles": [
+    "HTML/HTML.md",
+    "HTML/Les attributs.md",
+    "HTML/Tableau HTML.md",
+    "HTML/Encodage (charset).md",
+    "HTML/Structure de base d'une page HTML.md",
+    "HTML/Les balises.md",
+    "HTML/Commentaire HTML.md",
+    "HTML/titre.md",
+    "HTML/En-tete et corps.md",
+    "HTML/Balise HTML.md",
+    "HTML/CSS.md",
+    "Java/Prog-Structure/JAVADOC/Commentaire style javadoc.md",
+    "HTML",
+    "Java/Prog-Structure/JAVADOC/Intro-Javadoc.md",
+    "Java/Prog-Structure/Programation Structurée.md",
+    "Java/Java.md",
     "Java/UI.md",
+    "Java/Prog-Structure/SmartGit.md",
+    "méthode.md",
+    "Templates/Note.md",
+    "Templates",
+    "Java/Prog-Objet/Encapsulation.md",
+    "Java/Prog-Structure/JAVADOC",
+    "Java/Prog-Structure/JAVADOC",
     "Exercices/POO-TP2.pdf",
     "Java/Prog-Objet/modificateur.md",
-    "Java/Prog-Objet/Encapsulation.md",
     "Java/Prog-Objet/objet.md",
-    "Java/Prog-Structure/SmartGit.md",
     "Java/Prog-Structure/Exercices/Atelier06.pdf",
     "Java/Prog-Objet/Variables Java.md",
     "Exercices/TEST.md",
     "Exercices/PS-TP01.md",
     "Exercices/PS-Atelier 3.md",
-    "Exercices/PS-Atelier 1.md",
-    "Exercices/POO-TP1.md",
-    "Exercices/POO-Lab1.md",
-    "Java/Prog-Objet/Class.md",
-    "Linux/Bash/memoire.md",
     "Exercices/TP2.pdf",
-    "Linux/Bash/nombre_de_fichiers_conc.md",
-    "Linux/Bash/nombre_de_fichiers_seq.md",
-    "Linux/Bash.md",
-    "Linux/Tableau de commandes.md",
-    "Linux/Bash/server.md",
-    "Java/Prog-Objet/Tableaux/Tableaux d'objets/Tableau d'objet.md",
-    "Java/Prog-Objet/Tableaux/Tableaux primitifs/Recherche d'info simple.md",
-    "Java/Prog-Objet/Tableaux/Tableaux primitifs/Recherche d'info double.md",
-    "Java/Java.md",
-    "Java/Prog-Objet/package.md",
-    "Java/Prog-Objet/Programation orienté Objet.md",
     "Java/Prog-Structure/Exercices",
     "Linux/Bash",
     "Java/Prog-Objet/Tableaux/Tableaux d'objets",
-    "Java/Prog-Objet/Tableaux/Tableaux primitifs",
-    "Java/Prog-Objet/Tableaux",
-    "Excalidraw",
-    "Lua",
     "Ressources/Pasted image 20240214093413.png",
     "Ressources/Pasted image 20240214082955.png"
   ]

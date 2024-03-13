@@ -1,0 +1,3 @@
+- Les attributs sont un peu les options des balises. 
+	- EX: `<balise attribut="valeur">` 
+- Ex avc une image `<image nom="photo.jpg">`
