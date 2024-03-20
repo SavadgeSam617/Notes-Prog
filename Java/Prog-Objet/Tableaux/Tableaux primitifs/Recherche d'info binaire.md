@@ -31,3 +31,33 @@ if (posGa <= posDr) {
 	System.out.println("Aucun produit trouvé"); 
 }
 ```
+
+```java
+public static int rechercheBin(int[] vec, int valeur) {
+        int posGa = 0;
+        int posDr = vec.length - 1;
+        int posMi = (posGa + posDr) / 2;
+
+        while (posGa <= posDr && valeur != vec[posMi]) {
+            if (valeur < vec[posMi]) {
+                posDr = posMi - 1;
+                // Si on est à gauche du milieu, on déplace la borne de droite
+            } else {
+                posGa = posMi + 1;
+                // Si on est à droite du milieu, on déplace la borne de gauche
+            }
+            posMi = (posGa + posDr) / 2;
+            // Mise à jour du milieu
+            System.out.println(posGa + " : " + posMi + " : " + posDr);
+        }
+        if (posGa <= posDr) {
+            // Si les bornes ne se croisent pas, on a trouvé
+            System.out.println("On a trouvé " + vec[posMi] + " à l'index " + posMi);
+        } else {
+            System.out.println("Le nombre n'a pas été trouvé");
+        }
+        // DONE: Implanter la recherche binaire
+        // Afficher les bornes à chaque itération
+        return posMi;
+}
+```
