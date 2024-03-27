@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Prog-Objet/Tableaux/Tableaux primitifs/Recherche d'info binaire.md",
+                "file": "Java/Prog-Structure/String.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Prog-Objet/Tableaux/Tableaux primitifs/Recherche d'info binaire.md",
+                "file": "Java/Prog-Structure/String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Prog-Objet/Tableaux/Tableaux primitifs/Recherche d'info binaire.md",
+                "file": "Java/Prog-Structure/String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Prog-Objet/Tableaux/Tableaux primitifs/Recherche d'info binaire.md"
+                "file": "Java/Prog-Structure/String.md"
               }
             }
           },
@@ -162,7 +162,22 @@
   },
   "active": "109f0ca333a32d93",
   "lastOpenFiles": [
+    "Java/Prog-Structure/ExpressionsJava.md",
+    "Java/Prog-Structure/String.md",
+    "Java/Prog-Objet/Variables Java.md",
+    "Java/Prog-Objet/Programation orienté Objet.md",
+    "Java/Prog-Objet/package.md",
+    "Java/Prog-Objet/modificateur.md",
+    "Java/Prog-Objet/Constructeur.md",
+    "Java/Prog-Objet/Encapsulation.md",
+    "Java/Prog-Structure/JAVADOC/Intro-Javadoc.md",
+    "Linux/Vim.md",
     "Java/Prog-Objet/Héritage/Définition Héritage.md",
+    "Java/Prog-Objet/Tableaux/Tableaux primitifs/Copier un tableau.md",
+    "Ressources/vi-vim-cheat-sheet.gif",
+    "Ressources/vi-vim-cheat-sheet.gif.opdownload",
+    "Templates/Note.md",
+    "Java/Prog-Objet/Tableaux/Tableaux primitifs/Recherche d'info binaire.md",
     "Java/Prog-Objet/Class.md",
     "Java/Prog-Objet/Tableaux/Tableaux primitifs/Recherche d'info simple.md",
     "Java/Prog-Objet/Héritage",
@@ -171,33 +186,19 @@
     "Java/Prog-Objet/Tableaux/Tableaux primitifs/Tableaux ordonnés.md",
     "Java/Prog-Objet/Tableaux/Tableaux d'objets/Tableau d'objet.md",
     "Java/UI.md",
-    "Java/Prog-Objet/Tableaux/Tableaux primitifs/Recherche d'info binaire.md",
-    "Java/Prog-Objet/Tableaux/Tableaux primitifs/Copier un tableau.md",
     "Linux/Expressions.md",
     "HTML/Tableau HTML.md",
     "HTML/titre.md",
     "HTML/Balise HTML.md",
     "HTML/Commentaire HTML.md",
     "HTML/CSS.md",
-    "HTML/En-tete et corps.md",
-    "HTML/Encodage (charset).md",
     "Linux/Expressions",
-    "HTML/HTML.md",
-    "HTML/Les attributs.md",
-    "HTML/Structure de base d'une page HTML.md",
-    "HTML/Les balises.md",
-    "Java/Prog-Structure/JAVADOC/Commentaire style javadoc.md",
     "HTML",
-    "Java/Prog-Structure/JAVADOC/Intro-Javadoc.md",
-    "Java/Prog-Structure/Programation Structurée.md",
-    "Java/Java.md",
-    "Java/Prog-Structure/SmartGit.md",
     "Templates",
     "Java/Prog-Structure/JAVADOC",
     "Java/Prog-Structure/JAVADOC",
     "Java/Prog-Structure/Exercices/Atelier06.pdf",
     "Exercices/TP2.pdf",
-    "Java/Prog-Structure/Exercices",
     "Ressources/Pasted image 20240214093413.png",
     "Ressources/Pasted image 20240214082955.png"
   ]

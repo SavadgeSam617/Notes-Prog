@@ -38,4 +38,8 @@ static final String JOSEPHER = "C'est l'action d'aller en date";
 ```java
 String[] nomDesJoueurs;
 nomDesJoueurs = new String[12];
+
+//
+
+String[] nomDesJoueurs = {"", "", ""}
 ```
